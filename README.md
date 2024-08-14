@@ -7,7 +7,7 @@
 - 🛠 **Expertise**: We develop tailored products that meet our clients' specific needs, ensuring quality, reliability, and innovation in every project.
 
 - 📍 **Location**: R. Prof. Itamar Orlando Soares, 161 - Zona 7, Maringá - PR, 87020-270.
-- 📫 **Contact Us**: info@smartsensordesign.com.br
+- 📫 **Contact Us**: sandro@smartsensordesign.com
 
 <h3 align="left">Connect with Us:</h3>
 <p align="left">
